@@ -9,6 +9,11 @@
 - Linux Desktop -  Setting up system, getting everything to work.
 - Windows - on Desktop
 - Windows Server Basics
+- Website-Building with Wordpress an Elementor
+
+### Coding Experience - almost Zero:
+
+- a littel Windows Batch Scripting
 
 
 
