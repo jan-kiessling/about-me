@@ -13,7 +13,10 @@
 
 ### Coding Experience - almost Zero:
 
-- a littel Windows Batch Scripting
+- a little Windows Batch Scripting
+- a little Apple Script and Automator
+- HTML Code Snippets
+- 
 
 
 
