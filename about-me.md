@@ -7,5 +7,16 @@
 ### Support for :
 - MacOS
 - Linux Desktop -  Setting up system, getting everything to work.
-- blabla
+- Windows - on Desktop
+- Windows Server Basics
+- Website-Building with Wordpress an Elementor
+
+### Coding Experience - almost Zero:
+
+- a little Windows Batch Scripting
+- a little Apple Script and Automator
+- HTML Code Snippets
+- 
+
+
 
